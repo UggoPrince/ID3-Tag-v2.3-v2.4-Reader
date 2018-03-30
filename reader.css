@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+img{
+	width:100px;
+}
+
+#infoDiv{
+	width:500px;
+	display:inline-block;
+	}
+
+.textDiv{
+	width:350px;
+	height:150px;
+	}
+	
+.displayNone{
+	display:none;
+}
